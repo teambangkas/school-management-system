@@ -34,7 +34,7 @@
 
   		}
 
-  		a {
+  		li {
   			margin-right: 10px;
   			color: white;
   		}
@@ -43,16 +43,19 @@
   	</style>
   </head>
   <body>
-    <div class="nav">
-      <a href="home.html" >Home</a>
-      <a href="events.html">Events</a>
-      <a href="people.html">People Behind</a>
-      <a href="developers.html">Developers of the Size</a>
-    </div>
+  	<div class="nav">
+  		<li href="home.html" >Home</li>
+  		<li href="events.html">Events</li>
+  		<li href="people.html">People Behind</li>
+  		<li href="developers.html">Developers of the Size</li>
+  	</div>
   	<div align="center">
   	<img src="img/logo.jpg">
-  	<h1>FEARLESSLY FORGIVING THE FUTURE</h1>
-  	<p></p>
+  	<h1>Developers</h1>
+  	<p>REGALADO</p>
+<p>CABANSAG</p>
+<p>CASTRO</p>
+<p>AMBOY</p>
 	<script src="index.js"></script>
 </div>
   </body>
